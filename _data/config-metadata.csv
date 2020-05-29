@@ -1,0 +1,7 @@
+field,display_name,browse_link,dc_map,schema_map
+title,Name,,DCTERMS.title,headline
+date,Date,,DCTERMS.created,dateCreated
+place,From,true,
+organization,Organization,true,
+profession,Profession,true,
+entities_all,Entities in Statement,true

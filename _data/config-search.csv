@@ -1,0 +1,8 @@
+field,index,display
+title,true,true
+date,true,true
+organization,true,true
+profession,true,true
+place,true,true
+statement,true,false
+entities_all,true,false

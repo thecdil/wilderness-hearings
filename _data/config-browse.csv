@@ -1,0 +1,7 @@
+field,display_name,btn,hidden
+date,Hearing Date,
+place,From,
+organization,,true
+profession,,true
+gender,,,true
+entities_all,,,true
