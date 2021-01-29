@@ -1,0 +1,8 @@
+---
+# create new column with unique entities
+---
+{%- assign items = site.data.statements_with_locations -%}
+{%- assign fields = "date,id,profession,entities_all,full-name,organization,place,place-original,gender,statement,chairman,name,affiliation,last-name,first-name,day,key" | split: "," -%}
+{{ fields | join: "," }},entities_unique
+{% for item in items %}{% for f in fields %}"{{ item[f] | escape }}",{% endfor %}"{% assign entities = item.entities_all | split: ";" %}{{ entities | uniq | join: "; " }}"
+{% endfor %}
