@@ -1,7 +1,7 @@
 field,display_name,btn,hidden
 date,Hearing Date,
 place,From,
-organization,,true
-profession,,true
+organization,Organization,
+profession,Profession,
 gender,,,true
-entities_unique,,,true
+entities_unique,,true,
