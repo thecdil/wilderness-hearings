@@ -4,4 +4,4 @@ date,Date,,DCTERMS.created,dateCreated
 place,From,true,
 organization,Organization,true,
 profession,Profession,true,
-entities_all,Entities in Statement,true
+entities_unique,Entities in Statement,true

@@ -4,4 +4,4 @@ place,From,
 organization,,true
 profession,,true
 gender,,,true
-entities_all,,,true
+entities_unique,,,true
