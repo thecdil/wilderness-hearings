@@ -1,7 +1,8 @@
 ---
 title: About
-layout: page
+layout: about
 permalink: /about.html
+credits: true
 ---
 
 ## About the {{site.title}}

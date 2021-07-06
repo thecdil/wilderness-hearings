@@ -11,7 +11,8 @@ gallery: true
     </ul>
 
     <div class="row">
-        <div class="col-md-8" id="lightgallery">
+
+        <div class="col-md-7" id="lightgallery">
             <div class="card mb-4 text-center">
                 {% if page.format contains 'image' %}
                 <div class="gallery-img" data-src="{% include image/original.html %}">
@@ -62,7 +63,7 @@ gallery: true
             </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div id="item-metadata" class="metadata">
                 <dl>
                     {% for f in fields %}{% if page[f.field] %}
@@ -80,6 +81,7 @@ gallery: true
                 </dl>
             </div>
         </div>
+
     </div>
 
     <div class="row justify-content-end mt-4">
