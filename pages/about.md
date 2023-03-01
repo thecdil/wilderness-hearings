@@ -5,9 +5,11 @@ permalink: /about.html
 credits: true
 ---
 
+{% include feature/nav-menu.html sections="Introduction;Background to Wilderness Preservation;Background to RARE II and Idaho's Wilderness Hearings;What We Learned So Far;Post-Script;Footnotes" %}
+
 ## A Wilderness History at the Grassroots: Using Public Hearings to Explore Digital Environmental History
 
-A project by Adam M. Sowards, Olivia Wikle, and Evan Wiliamson
+A project by Adam M. Sowards, Olivia Wikle, and Evan Williamson
 
 ### Introduction
 
@@ -67,7 +69,7 @@ These communities included four of the top seven most populated cities in the st
 
 **Table 1**. Idaho Cities' Population for RARE II Hearings
 
-<table class="table table-striped w-50">
+<table class="table table-striped" style="margin-left: auto; margin-right: auto; max-width: 650px;">
   <thead>
     <tr>
       <th scope="col">City</th>
@@ -94,7 +96,7 @@ These communities included four of the top seven most populated cities in the st
   </tbody>
 </table>
 
-Source: US Department of Commerce, Bureau of the Census, *1980 Census of Population. Volume 1: Characteristics of the Population. Chapter A: Number of Inhabitants. Part 14: Idaho* (Washington, DC: Government Printing Office, 1981), 14-15, <https://www2.census.gov/library/publications/decennial/1980/volume-1/idaho/1980a_idabcd-01.pdf>, accessed June 2, 2022.
+<small markdown="1">Source: US Department of Commerce, Bureau of the Census, *1980 Census of Population. Volume 1: Characteristics of the Population. Chapter A: Number of Inhabitants. Part 14: Idaho* (Washington, DC: Government Printing Office, 1981), 14-15, <https://www2.census.gov/library/publications/decennial/1980/volume-1/idaho/1980a_idabcd-01.pdf>, accessed June 2, 2022.</small>
 
 ### What We Learned So Far
 
