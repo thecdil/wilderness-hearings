@@ -5,13 +5,14 @@ permalink: /about.html
 credits: true
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Background to Wilderness Preservation;Background to RARE II and Idaho's Wilderness Hearings;What We Learned So Far;Post-Script;Footnotes" %}
+{% include feature/nav-menu.html sections="Introduction;Background to Wilderness Preservation;Background to RARE II and Idaho's Wilderness Hearings;Text Analysis Results;Post-Script;Footnotes" %}
 
-## A Wilderness History at the Grassroots: Using Public Hearings to Explore Digital Environmental History
+# A Wilderness History at the Grassroots: Using Public Hearings to Explore Digital Environmental History
 
-A project by Adam M. Sowards, Olivia Wikle, and Evan Williamson
+By: Adam M. Sowards, PhD  
+<small>Professor Emeritus, University of Idaho Department of History</small>
 
-### Introduction
+## Introduction
 
 As of 2022, Idaho contains 4,796,253 acres in designated wilderness areas, ranking third among states in total wilderness acreage and fourth in percentage of the state's land protected in this category. Such statistics hint at the importance wilderness plays in the Gem State. Yet wilderness protection has primarily been driven by coalitions of national and local activists, and creating wilderness areas never appealed to a consensus of Idahoans. Since conservationists began celebrating wild areas as worthy of protection, others have criticized the idea. Idaho reproduced those debates as clearly as anywhere.[^1] 
 
@@ -19,9 +20,9 @@ Ever since Congress started considering legislation for wilderness protection in
 
 In August 1983, hearings in four Idaho communities--Boise, Idaho Falls, Coeur d'Alene, and Lewiston--produced hundreds of pages of testimony. The collective remarks made by elected officials, natural resource workers, hunters, and conservationists capture a critical moment in the state's environmental history and reveal concerns and hopes of Idahoans. By digitizing this testimony and using some available digital humanities tools, we hoped to use the evidence to explore environmental politics in Idaho at this key time, to discern trends that need explication, and to identify questions that need answers. This is but a beginning point--but a revealing one--that others can use to explore and build a stronger, deeper history of Idaho's wilderness politics.
 
-### Background to Wilderness Preservation
+## Background to Wilderness Preservation
 
-#### Protecting Wilderness 
+### Protecting Wilderness 
 
 Wilderness is a modern creation of humans.[^3] That is not to say that humans created vast landscapes, but that only recently have governments used their power to remove humans from certain places and define and protect that land from being commercially exploited. In the nineteenth-century United States, critics--among them writers, scientists, and government officials--began articulating reasons why the nation would benefit from some areas held separate from settlement and economic development. Parts of the nation's public domain were set aside as national parks, forests, or wildlife refuges, all of which had varying purposes and management practices, but at the turn of the twentieth century, they all avoided maximizing resource use and that kept vast acreages mainly undeveloped. Soon, automobiles and the roads they traveled on pierced the mountains and deserts seemingly everywhere, and an entire consumer culture focused on outdoor recreation popped up with roads, motels, campgrounds, and rustic cabins. While traveling and camping caused fewer ecological problems than industrial logging, for example, the backcountry still was altered by those activities.[^4]
 
@@ -29,19 +30,19 @@ To counter this trend, a group of conservationists developed alternatives, inclu
 
 The legislation moved slowly in Congress and required 66 revisions, including many compromises.[^7] In 1961, in a significant moment of progress, the Senate passed a version of the bill with a bipartisan 78-8 vote. The next stop on the legislative journey was the House of Representatives' Committee on Interior and Insular Affairs, whose Subcommittee on Public Lands--chaired by Idaho's 1st District representative, Gracie Pfost--led a series of hearings around the nation.
 
-#### Wilderness Hearings in Idaho (1961)
+### Wilderness Hearings in Idaho (1961)
 
 The first hearing the subcommittee held occurred in McCall, Idaho, where a series of citizens spoke for and against the wilderness bill. The testimony ranged widely, but the poles stood far apart. Consider two short excerpts from Idahoans. A.M. Derr, a former state legislator, expressed unrestrained disdain about the proposed law: "The proposed Wilderness Act is inimical to the welfare of the people of the State of Idaho and to its visitors. It is a confusing hodgepodge act that tries to be all things to all people. It is based on a false philosophy, is totally unnecessary, costly to taxpayers, and in violation of the laws of God and man. It is startling that such triviality and animus should be accorded credence by responsible citizens." By contrast, Ernest E. Day, the president of the Idaho Wildlife Federation, took an opposing view: "Shall we chew up every last niche and corner of our wilderness areas in Idaho with roads, commerce, and 'progress' or shall we stop just a little short of this and save some of it for ourselves and our children in just the wonderful way it was left to us by our Creator?"[^8] Irreconcilable differences seemed to be on display in the Masonic Hall in central Idaho. 
 
-#### The Wilderness Act (1964)
+### The Wilderness Act (1964)
 
 The gears of democracy kept grinding, soliciting input from the public and crafting compromises by legislators, and Idaho and Idahoans remained prominent in this process. Senator Frank Church of Idaho played a leading role managing the legislation on the Senate floor. By 1964, Congress passed the Wilderness Act, and President Lyndon Johnson signed it. Immediately, 9.1 million acres established the National Wilderness Preservation System. Idaho contributed just shy of 1.1 million of those acres in the Selway-Bitterroot Wilderness.[^9] 
 
 According to the new law, wilderness was "an area where the earth and its community of life are untrammeled by man, where man himself is a visitor who does not remain. . . . [that] generally appears to have been affected primarily by the forces of nature." Furthermore, with rare exceptions, the Wilderness Act disallowed "permanent improvements or human habitation," commercial enterprises, permanent roads, motors, and "mechanical transport."[^10] After more than five decades, the Wilderness Act remains unamended, and these definitions and prohibitions remain in effect, although when Congress includes new wilderness areas, it sometimes carves out unique features and exceptions for individual places. From these small but significant seeds, the National Wilderness Preservation System grew nationwide--and in Idaho.
 
-### Background to RARE II and Idaho's Wilderness Hearings
+## Background to RARE II and Idaho's Wilderness Hearings
 
-#### Adding Wilderness post-1964
+### Adding Wilderness post-1964
 
 The passage of the Wilderness Act in 1964 initiated processes to extend protection across more acres. Congress directed the US Forest Service and the National Park Service to survey its roadless areas within 10 years and recommend further places to include in the National Wilderness Preservation System. For Idaho, only the Forest Service mattered. The agency developed a process known as Roadless Area Review Evaluation (RARE) that it envisioned being efficient and likely to produce consensus within the agency and among conservationists. The Forest Service grossly miscalculated the mood and power of wilderness activists. 
 
@@ -49,7 +50,7 @@ The Forest Service concluded it needed to survey 56 million roadless acres in 1,
 
 In 1972, the Sierra Club Legal Defense Fund filed a lawsuit alleging the Forest Service rushed its evaluation and skirted the requirements of the National Environmental Policy Act. When it went into effect January 1, 1970, NEPA offered environmental groups new ways to challenge federal agencies, for the law required any significant federal project to complete environmental impact statements followed by public hearings. The Sierra Club Legal Defense Fund successfully argued in federal court that the Forest Service possessed insufficient information to make its recommendations and failed to provide enough time for public input. The court prepared an injunction, preventing timber sales in roadless areas across the nation. To stave off such drastic disruption and uncertainty for the timber economy and fearing it would lose in further legal battles, the Forest Service agreed to a settlement out of court. In the agreement, the Forest Service promised to abide by NEPA for all management activities in roadless areas. In effect, it initiated a second, more thorough review of roadless areas--RARE II--that included a lengthy process with more public hearings.[^12]
 
-#### Political Context for Idaho's RARE II Hearings
+### Political Context for Idaho's RARE II Hearings
 
 RARE II put a lot on the line during a moment of transition. Wilderness advocates had enjoyed a degree of success, while their opponents grew more powerful and organized in what became known as the Sagebrush Rebellion.[^13] Although the Wilderness Act passed with near-unanimity, by the late 1970s and early 1980s, congressional allies of extractive industries, such as mining and timber, had grown more responsive to the industries' needs and citizens' complaints. As the RARE II process unfolded, Congress adopted a state-by-state approach, which explains the Idaho hearings rather than a more general approach of, say, focusing on the Northern Rockies.[^14] Meanwhile, the 1980 election sent Ronald Reagan to the White House and gave Republicans control in the Senate for the first time in nearly three decades. This party shift put Idaho's senior senator James McClure in charge of the crucial Senate Energy and Natural Resources Committee. Deciding the future of Idaho's wilderness areas was bound up with these larger political forces of a surging conservatism often hostile to wilderness proposals.
 
@@ -57,7 +58,7 @@ The principal sticking point in the RARE II negotiations concerned future wilder
 
 The debate over hard or soft release language gave the RARE II hearings a sense of urgency. If McClure and the powerful timber industry carried the day, Idahoans who wished to protect mountains and rivers and maybe even a stretch of desert from commercial exploitation needed to get as much wilderness designated as possible as soon as possible. The hearings and this project help make this visible by mapping the place names mentioned. The hearings reveal the priorities of the principals involved.
 
-#### RARE II in Idaho
+### RARE II in Idaho
 
 The public hearings for wilderness were important for several reasons. For one, they represented a significant democratic function, a place where the public could directly address elected leaders or appointed government officials in an attempt to influence them or simply to share perspectives. Senator McClure chaired the meetings in Idaho in a clear embodiment of this dynamic. At the time, RARE II received more public comments than any other federal land use proposal in history.[^15] Decades before legislative reforms like NEPA or the Wilderness Act, both of which required public hearings, the bulk of federal land-use decisions and policymaking occurred beyond the reach of the public. A common result was an insularity and occasional arrogance in federal agencies like the Forest Service where new ideas found few outlets. Public hearings could introduce new ideas, different preferences, and clarify the popularity of policies.[^16]
 
@@ -98,7 +99,7 @@ These communities included four of the top seven most populated cities in the st
 
 <small markdown="1">Source: US Department of Commerce, Bureau of the Census, *1980 Census of Population. Volume 1: Characteristics of the Population. Chapter A: Number of Inhabitants. Part 14: Idaho* (Washington, DC: Government Printing Office, 1981), 14-15, <https://www2.census.gov/library/publications/decennial/1980/volume-1/idaho/1980a_idabcd-01.pdf>, accessed June 2, 2022.</small>
 
-### What We Learned So Far
+### Text Analysis Results
 
 This digital humanities project was more exploratory than hypothesis-driven. We initiated it hoping to discover something--and make it available for others to explore and learn more. 
 
@@ -114,13 +115,13 @@ Conflict between the industry and wilderness advocates appear in the hearings ge
 
 Nothing definitive can be concluded by these initial impressions. But each one is an arrow pointing to further research--and this is one of the values of a project like this. 
 
-### Post-Script
+## Post-Script
 
 RARE II prompted many new wilderness areas. In 1984, for example, Congress passed two bills for Idaho's neighboring states, Washington and Oregon, that added almost two million more acres to the National Wilderness Preservation System. It was the third largest yearly increase in acreage ever and the most number of unique wilderness areas added in a year, all sparked by the RARE II process.[^20] This was a remarkable achievement given the general hostility of the Reagan administration toward wilderness. But Senator McClure finally blinked in the negotiations. Lawsuits and political leverage moved McClure to relent, allowing reconsideration for more wilderness proposals later. Hard release language lost out.[^21] RARE II did not settle wilderness questions forever and ended up producing more and larger wilderness areas than the Forest Service, the timber industry, and their allies in Congress anticipated or desired, proof that grassroots activism could still mount a strong offense.
 
 But not so for Idaho. After the addition of what is now known as the Frank Church-River of No Return Wilderness in 1980, no more wilderness was added from Idaho until 2009. As a result, the places Idahoans spoke for in August 1983 across the state remained in limbo. In many cases, they still are being studied. RARE II did not quickly nudge new areas of Idaho into the National Wilderness Preservation System. An argument could be made that this suggests the hearings were meaningless and of little historical value. Perhaps. But maybe the opposite is true--that the hearings deserve deeper scrutiny as historical evidence because Idaho didn't follow the national script. To compare the map of 1983 to that of 2022 and to reread the testimony is to see the state's current landscape as part of a historical continuum and to recognize contingency shapes the past, present, and future.
 
-### Footnotes
+## Footnotes
 
 [^1]: State statistics come from Wilderness Connect, "Acreage By State," accessed June 1, 2022, <https://wilderness.net/practitioners/wilderness-areas/summary-reports/acreage-by-state.php>. For Idaho's wilderness history, see Frederick H. Swanson, *Where Roads Will Never Reach: Wilderness and Its Visionaries in the Northern Rockies* (Salt Lake City: The University of Utah Press, 2015), which incorporates a broader area; see also Ken Robison, *Defending Idaho's Natural Heritage* (np: np, 2014).
 
