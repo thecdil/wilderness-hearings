@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://thecdil.github.io
+url: https://cdil.lib.uidaho.edu/
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /wilderness-hearings
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder
+source-code: https://github.com/thecdil/wilderness-hearings
 
 ##########
 # SITE SETTINGS
@@ -25,12 +25,12 @@ tagline: Public Statements Presented to U.S. Senate in 1983
 # this description might appear in search result lists, keep around 160 characters max
 description: "Idaho wilderness hearings before the Subcommittee on Public Lands and Reserved Water of the Committee on Energy and Natural Resources, United States Senate, Ninety-eighth Congress, first session, to review the Idaho wilderness recommendations." 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: evanwill; owikle
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-name: "Center for Digital Inquiry and Learning (CDIL), University of Idaho Library"
+organization-link: https://cdil.lib.uidaho.edu/
+organization-logo-banner: /assets/img/cdil.png
+organization-logo-nav: /assets/img/ui-library.png
 
 
 ##########
@@ -64,7 +64,7 @@ page_gen:
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+# noindex: true 
 
 ##########
 # BUILD SETTINGS 
