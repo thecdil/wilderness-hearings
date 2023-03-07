@@ -99,7 +99,7 @@ These communities included four of the top seven most populated cities in the st
 
 <small markdown="1">Source: US Department of Commerce, Bureau of the Census, *1980 Census of Population. Volume 1: Characteristics of the Population. Chapter A: Number of Inhabitants. Part 14: Idaho* (Washington, DC: Government Printing Office, 1981), 14-15, <https://www2.census.gov/library/publications/decennial/1980/volume-1/idaho/1980a_idabcd-01.pdf>, accessed June 2, 2022.</small>
 
-### Text Analysis Results
+## Text Analysis Results
 
 This digital humanities project was more exploratory than hypothesis-driven. We initiated it hoping to discover something--and make it available for others to explore and learn more. 
 
